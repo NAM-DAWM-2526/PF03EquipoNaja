@@ -19,9 +19,6 @@
     "url": "https://github.com/NAM-DAWM-2526/PF03EquipoNaja/issues"
   },
   "homepage": "https://github.com/NAM-DAWM-2526/PF03EquipoNaja#readme",
-  "dependencies": {
-    "chalk": "^6.0.1"
-  },
   "devDependencies": {
     "vitest": "^5.1.0"
   }
